@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "author": "Elan Ruusamäe <glen@delfi.ee>",
+  "license": "MIT",
+  "scripts": {
+    "test": "renovate --dry-run example",
+    "validate": "renovate-config-validator"
+  },
+  "dependencies": {
+    "renovate": "^35.81.0"
+  }
+}
